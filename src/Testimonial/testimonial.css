@@ -1,0 +1,17 @@
+.single_testimonaial {
+  padding: 30px;
+}
+.single_testimonaial p {
+  margin-bottom: 15px;
+  color: #fff;
+}
+.single_testimonaial h6 {
+  margin-bottom: 10px;
+  color: #7865ff;
+  font-size: 1.1rem;
+  font-weight: 500;
+}
+.single_testimonaial .title {
+  font-weight: 300 !important;
+  font-size: 0.9rem;
+}

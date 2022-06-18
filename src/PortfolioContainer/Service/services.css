@@ -1,0 +1,31 @@
+.single_service {
+  background: #132347;
+  padding: 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  border-bottom: 1px solid #7865ff;
+  transition: 0.3s;
+}
+.service_icon {
+  color: #7865ff;
+  font-size: 2rem;
+}
+.services_top h2 {
+  color: #7865ff;
+  margin-bottom: 15px;
+}
+.services_top h4 {
+  color: white;
+}
+.single_service h2 {
+  font-size: 1.4rem;
+  color: white;
+}
+.single_service p {
+  color: white;
+  font-weight: 300;
+  line-height: 30px;
+}
+.single_service:hover {
+  transform: translateY(-15px);
+}

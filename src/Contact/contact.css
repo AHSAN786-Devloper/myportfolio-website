@@ -1,0 +1,14 @@
+.container_contact {
+  background: #271d74;
+  width: 30%;
+  margin: 0 auto;
+  height: 80vh;
+  border-radius: 10px;
+}
+.container_contact .text {
+  color: #8173ee;
+  font-weight: 500;
+}
+.btn {
+  border: 1px solid #8173ee;
+}
